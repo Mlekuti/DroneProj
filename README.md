@@ -1,8 +1,6 @@
 #  Fall 23 Project <br>
-Elvedin Handzic - <br> 
-Malik Lekuti -  <br>
-Ethan Wilcox -  <br>
-Alexander Sulistyo - <br>
+Malik Lekuti - maliklekuti@gmail.com
+
 
 # Project Overview 
 The Drone Simulation System is a program that emulates the behavior of package delivery drones in
