@@ -1,8 +1,8 @@
-# Homework 4 - Team 010-65 - Fall 23 <br>
-Elvedin Handzic - Handz020 <br> 
-Malik Lekuti - Lekut005 <br>
-Ethan Wilcox - Wilco432 <br>
-Alexander Sulistyo - Sulis008 <br>
+#  Fall 23 Project <br>
+Elvedin Handzic - <br> 
+Malik Lekuti -  <br>
+Ethan Wilcox -  <br>
+Alexander Sulistyo - <br>
 
 # Project Overview 
 The Drone Simulation System is a program that emulates the behavior of package delivery drones in
